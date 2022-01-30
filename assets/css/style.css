@@ -206,7 +206,7 @@ html {
     }
 }
 
-.game-info-container {
+ .game-info-container {
     flex-direction: column;
     align-items: center;
 }
